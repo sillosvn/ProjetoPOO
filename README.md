@@ -33,7 +33,7 @@ Entrada e Saída de Dados: O programa permite entrada de dados por meio de opç�
 
 Este projeto é um sistema de gerenciamento para um hotel, desenvolvido em Java com Swing para a interface gráfica e manipulação de arquivos CSV para persistência de dados. O sistema permite o cadastro e gestão de hóspedes, funcionários, quartos e reservas, além de um módulo para controle de pagamentos.
 
-*Funcionalidades*
+## Funcionalidades
 
 Cadastro de hóspedes e verificação de CPFs únicos.
 
