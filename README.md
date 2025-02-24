@@ -61,6 +61,7 @@ Programação Orientada a Objetos (POO)
 
 #Autores
 
-Vinicius - [GitHub](https://github.com/sillosvn)
+Vinicius - [GitHub](https://github.com/sillosvn).
+
 Karlos - [github.com/16l29](https://github.com/16l29/)
 
