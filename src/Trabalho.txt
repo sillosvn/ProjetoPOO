@@ -1,0 +1,22 @@
+✅-Estrutura de Classes: Crie um mínimo de 8 classes, incluindo classes abstratas e a classe principal.
+
+✅-Interfaces: Implemente no mínimo duas interfaces que definam comportamentos a serem implementados pelas classes.
+
+✅-Herança: Utilize herança para criar hierarquias de classes. Considere a implementação de herança múltipla através do uso de interfaces.
+
+✅-Polimorfismo: Demonstre o uso de polimorfismo através da sobrecarga e sobrescrita de métodos nas classes.
+
+✅-Manipulação de Arquivos: Implemente a entrada e saída de dados utilizando arquivos. Os dados devem ser lidos de um arquivo e também devem ser salvos em um arquivo.
+
+✅-Encapsulamento: Utilize o encapsulamento para proteger os dados nas classes, aplicando modificadores de acesso adequados.
+
+✅-Métodos Get e Set: Implemente métodos getters e setters para todos os atributos das suas classes, garantindo o acesso controlado às propriedades.
+
+✅-Tratamento de Exceções: Utilize tratamento de exceções (try-catch e throws) para lidar com possíveis erros que possam ocorrer durante a execução do programa.
+
+✅-Estruturas de Dados: Utilize ArrayList, HashMap, HashSet e Matriz no seu sistema para gerenciar coleções de dados de maneira eficiente. vetores e matrizes.
+
+✅-Interface Gráfica: Implemente uma interface gráfica utilizando JFrame e JOptionPane para interagir com o usuário. A interface deve permitir que os usuários insiram dados e visualizem resultados, proporcionando uma experiência mais amigável e intuitiva.
+
+✅-O programa deve ter entrada de dados (através de opções de escolhas e preenchimento de dados em arquivo) e saída de dados através da impressão de informações em arquivo.
+
