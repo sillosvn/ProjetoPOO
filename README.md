@@ -49,7 +49,7 @@ Geração de relatórios.
 
 Cálculo de pagamentos e inclusão de bonificação para gerentes.
 
-#Utilizações
+# Utilizações
 
 Java 17+
 
@@ -59,7 +59,7 @@ Manipulação de Arquivos CSV
 
 Programação Orientada a Objetos (POO)
 
-#Autores
+# Autores
 
 Vinicius - [GitHub](https://github.com/sillosvn)
 
