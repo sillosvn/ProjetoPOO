@@ -1,9 +1,9 @@
 # ProjetoPOO
 Projeto do 3º semestre da faculdade de Eng. de Computação
 
-##Sistema de Gerenciamento de Hotel!
+## Sistema de Gerenciamento de Hotel!
 
-###Considerações sobre o Código
+### Considerações sobre o Código
 Este projeto foi desenvolvido seguindo requisitos específicos que determinaram sua estrutura, funcionalidades e abordagens. Os requisitos são os seguintes:
 
 Estrutura de Classes: O projeto contém no mínimo 8 classes, incluindo classes abstratas e a classe principal.
